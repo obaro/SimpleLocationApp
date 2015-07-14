@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleLocationApp</string>
+
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
